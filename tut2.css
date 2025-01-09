@@ -1,0 +1,147 @@
+.navbar {
+    width: 130, 30px;
+    height: 130px;
+    background-color: orangered
+}
+
+.navbar li {
+    float: right;
+    list-style: none;
+    margin: 1px 10px;
+    display: inline;
+}
+
+.navbar ul {
+    overflow: auto;
+    color: white;
+    font-size: small;
+}
+
+.search_input {
+    width: 775px;
+    height: 50px;
+    background: white;
+    border: none;
+    /* padding: 0px 10px; */
+
+}
+
+.search_value_container {
+    float: right;
+    width: 100%;
+    margin-top: 35px;
+}
+
+.main_container {
+    /* margin-bottom: 30px; */
+}
+
+.logo_container {
+    float: left;
+    width: 20%;
+    text-align: center;
+
+
+}
+
+.search_icon_container {
+    background-color: #f85606;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 60px;
+    margin-right: 5px;
+}
+
+.search_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.section1 {
+
+    padding-top: 10px;
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: left;
+    font-weight: lighter;
+    color: rgb(68, 68, 68);
+    background-color: rgb(255, 251, 251);
+
+}
+
+.btn_container {
+    background-color: white;
+    border: none;
+    color: #f85606;
+    border: 1px solid orangered;
+    float: right;
+}
+
+.btn2 {
+    color: #f85606;
+    /* float: left; */
+}
+.btn3_container{
+    margin: auto;
+    width: 90%;
+    align-items: center;
+}
+.btn3 {
+    background-color: white;
+    border: none;
+    color: #0677f8ea;
+    border: 1px solid #0677f8ea;
+    /* float: center; */
+    margin: auto;
+    /* margin-right: 20px; */
+    width: 200px;
+    /* margin-top: 130px; */
+    padding: 20px 40px;
+}
+
+.box{ 
+    margin: 4px;
+    box-sizing: border-box;
+    border-bottom-width: 10px;
+    padding-bottom: 120px;
+    background-color: white;
+    width: 180px;
+    display: inline-block;
+}
+.section3 {
+
+    padding-top: 10px;
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+}
+
+.pharaghp1 {
+    margin: 4px;
+    color: #0677f8ea;
+    padding: 23px;
+    width: 30%;
+    box-sizing: border-box;
+    display: inline-block;
+    border-bottom-width: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+.pharaghp2 {
+    color: #0677f8ea;
+    margin: 4px;
+    padding: 23px;
+    width: 30%;
+    box-sizing: border-box;
+    display: inline-block;
+    border-bottom-width: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+
+}
